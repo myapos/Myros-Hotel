@@ -5,6 +5,11 @@ Demo url:
 http://ellaksrv.datacenter.uoc.gr/~user654/myroshotel/
 http://ellaksrv.datacenter.uoc.gr/~user654/myroshotel/administrator
 
+You can download the project from url:
+
+http://ellaksrv.datacenter.uoc.gr/~user654/myroshotel.rar
+
+
 CMS 
 
 Joomla 3.4 https://www.joomla.org/announcements/release-news/5586-joomla-3-4-is-here.html
