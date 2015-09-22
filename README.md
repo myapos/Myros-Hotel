@@ -5,9 +5,11 @@ Demo url:
 http://ellaksrv.datacenter.uoc.gr/~user654/myroshotel/
 http://ellaksrv.datacenter.uoc.gr/~user654/myroshotel/administrator
 
-Extensions used:
+CMS 
 
 Joomla 3.4 https://www.joomla.org/announcements/release-news/5586-joomla-3-4-is-here.html
+
+Extensions used:
 
 1.	Creative Image Slider. http://extensions.joomla.org/extensions/extension/photos-a-images/slideshow/creative-image-slider
 2.	Advanced facebook likebox. http://extensions.joomla.org/profile/extension/social-web/social-display/advanced-facebook-likebox
